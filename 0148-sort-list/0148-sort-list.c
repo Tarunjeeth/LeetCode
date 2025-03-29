@@ -8,7 +8,7 @@
 
 struct ListNode* findmiddle(struct ListNode* head){
     struct ListNode* slow=head;
-    struct ListNode* fast=head->next;       //modified tortoise and hare
+    struct ListNode* fast=head->next;       //modified tortoise and hare for even numbered linked list split
     while(fast!=NULL && fast->next!=NULL){
         slow=slow->next;
         fast=fast->next->next;
