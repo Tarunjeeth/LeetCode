@@ -53,7 +53,7 @@ public:
             newnode->val=sum;
             newnode->next=NULL;
             temp->next=newnode;
-            temp=newnode;
+            temp=temp->next;
             if (temp1!=NULL){
                 temp1=temp1->next;
             }
