@@ -21,22 +21,25 @@ struct ListNode* mergeList(struct ListNode* left, struct ListNode* right) {
     dummyhead->val = -1;
     dummyhead->next = NULL;
     struct ListNode* temp = dummyhead;
-    
-    while (left != NULL && right != NULL) {
-        if (left->val > right->val) {
-            temp->next = right;
-            right = right->next;
+    struct ListNode* temp1=left;
+    struct ListNode* temp2=right;
+
+    while (temp1!= NULL && temp2!= NULL) {
+        if (temp1->val > temp2->val) {
+            temp->next = temp2;
+            temp=temp2;
+            temp2=temp2->next;
         } else {
-            temp->next = left;
-            left = left->next;
+            temp->next = temp1;
+            temp=temp1;
+            temp1=temp1->next;
         }
-        temp = temp->next;
     }
     
-    if (left) {
-        temp->next = left;
+    if (temp1) {
+        temp->next = temp1;
     } else {
-        temp->next = right;
+        temp->next = temp2;
     }
 
     return dummyhead->next;
