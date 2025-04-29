@@ -72,4 +72,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tarunjeeth/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0744-network-delay-time](https://github.com/Tarunjeeth/LeetCode/tree/master/0744-network-delay-time) |
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Tarunjeeth/LeetCode/tree/master/0744-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Tarunjeeth/LeetCode/tree/master/0744-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Tarunjeeth/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Tarunjeeth/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
