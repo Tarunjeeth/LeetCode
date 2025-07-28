@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Tarunjeeth/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0148-sort-list) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0148-sort-list) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjeeth/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Matrix
