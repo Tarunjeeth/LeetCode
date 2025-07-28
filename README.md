@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjeeth/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Matrix
 |  |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjeeth/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
