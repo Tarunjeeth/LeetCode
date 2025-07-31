@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Tarunjeeth/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjeeth/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
