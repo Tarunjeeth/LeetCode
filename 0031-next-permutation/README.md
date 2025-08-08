@@ -48,3 +48,14 @@
 
 https://youtu.be/LuLCLgMElus?si=mXWZLbL6BdzB8VGv
 https://youtu.be/quAS1iydq7U?si=PIsu74SbOJjt8ZSk
+
+
+Traverse to Find the Pivot: We start by traversing the array from the end to the beginning. We look for the first index i where nums[i] < nums[i + 1]. This step locates the longest non-increasing suffix, and i is identified as the pivot. This is completed in O(n) time complexity, where n is the length of the array.
+
+Find the Successor to the Pivot: If a pivot is found (the array is not entirely non-increasing), we again traverse the array from the end to find the first index j where nums[j] > nums[i]. The element at j is the smallest element greater than the pivot within the suffix. This step ensures we get the next permutation.
+
+Swap the Pivot and its Successor: We swap the elements at i and j. Now, the pivot is at the place of its immediate successor which is the minimum necessary increment to the current permutation.
+
+Reverse the Suffix: Finally, the suffix starting from i+1 till the end of the array is reversed. Since the suffix was in a non-increasing order, reversing it will change it to non-decreasing order. This ensures the remainder of the array is as low as possible to be the next permutation after the incremented pivot.
+
+In-Place and Constant Space: The entire operation does not need any additional storage as all operations are performed on the input array itself. The space complexity is O(1) since no additional space is required regardless of the input size.
