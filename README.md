@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Tarunjeeth/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Tarunjeeth/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Tarunjeeth/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
