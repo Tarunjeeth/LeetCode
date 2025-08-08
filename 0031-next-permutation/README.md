@@ -45,3 +45,6 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+https://youtu.be/LuLCLgMElus?si=mXWZLbL6BdzB8VGv
+https://youtu.be/GCm7m5671Ps?si=2tt_qKunmoeDL9xG
