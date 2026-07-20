@@ -1,51 +1,52 @@
 class Solution {
 public:
-    int findind1(vector<int>& nums,int size){
-        for (int i=size-2;i>=0;i--){
-            if (nums[i]<nums[i+1]){
-                return i;
+    int firstOccurance(vector<int>& nums,int low,int lowIndex){
+        int size=nums.size();
+        int index=-1;
+        for (int i=size-1;i>=lowIndex;i--){
+            if (low<nums[i]){
+                index=i;
+                break;
             }
         }
-        return -1;
+        return index;
     }
 
-    int findind2(vector<int>& nums,int size,int ind1){
-        for (int i=size-1;i>=0;i--){
-            if (nums[i]>nums[ind1]){
-                return i;
-            }
-        }
-        return -1;
-    }
+    void reverseArray(vector<int>& nums,int stIndex,int endIndex){
+        int left=stIndex;
+        int right=endIndex;
 
-    void reverse(vector<int>&nums,int start,int end){
-        int rp=end;
-        int lp=start;
+        while (left<right){
+            int temp=nums[left];
+            nums[left]=nums[right];
+            nums[right]=temp;
 
-        while(rp>lp){
-            int temp=nums[lp];
-            nums[lp]=nums[rp];
-            nums[rp]=temp;
-            rp--;
-            lp++;
+            left++;
+            right--;
         }
     }
-
-    
 
     void nextPermutation(vector<int>& nums) {
         int size=nums.size();
-        int ind1=findind1(nums,size);
-        cout<<findind1(nums,size)<<endl;
-        if (ind1==-1){
-            reverse(nums,0,nums.size()-1);
+        int stIndex=-1;
+        for(int i=(size-1);i>0;i--){
+            if (nums[i]>nums[i-1]){         //high to low
+                int index=firstOccurance(nums,nums[i-1],i);     //replace nums[i-1] - low
+                printf("first occ %d i:%d low:%d ",index,i,nums[i-1]);
+                int temp=nums[index];
+                nums[index]=nums[i-1];
+                nums[i-1]=temp;
+                stIndex=i;            //for reversing array from i, stIndex denotes high
+                break;
+            }
         }
-        else{
-            int ind2=findind2(nums,size,ind1);
-            int temp=nums[ind1];
-            nums[ind1]=nums[ind2];
-            nums[ind2]=temp;
-            reverse(nums,ind1+1,nums.size()-1);
+        for (int i=0;i<size;i++){
+            printf("%d ",nums[i]);
+        }
+        if (stIndex==-1){
+            reverseArray(nums,0,size-1);
+        }else{
+            reverseArray(nums,stIndex,size-1);
         }
     }
 };
