@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarunjeeth/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Tarunjeeth/LeetCode/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunjeeth/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Tarunjeeth/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Tarunjeeth/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tarunjeeth/LeetCode/tree/master/0075-sort-colors) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tarunjeeth/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
