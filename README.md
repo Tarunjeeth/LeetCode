@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Tarunjeeth/LeetCode/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunjeeth/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Tarunjeeth/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjeeth/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Tarunjeeth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tarunjeeth/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tarunjeeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
