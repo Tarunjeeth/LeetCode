@@ -5,7 +5,7 @@ public:
         long long n2=n*n;
         vector <int> array(n*n,0);
         vector <int> out(2,0);
-        long long expected_sum=n2*(n2+1)/2;
+        int expected_sum=n2*(n2+1)/2;
         long long expected_sq_sum=n2*(n2+1)*(2*n2+1)/6;
         int actual_sum=0;
         long long actual_sq_sum=0;
