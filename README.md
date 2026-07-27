@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarunjeeth/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Tarunjeeth/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Tarunjeeth/LeetCode/tree/master/0050-powx-n) |
 | [0445-add-two-numbers-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunjeeth/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Tarunjeeth/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tarunjeeth/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tarunjeeth/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Tarunjeeth/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
