@@ -17,7 +17,7 @@ public:
         }
 
         if (n<0){
-            return ans=1/(double)ans;
+            return ans=1/ans;
         }
         return ans;
     }
