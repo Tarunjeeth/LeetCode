@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Tarunjeeth/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Tarunjeeth/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjeeth/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tarunjeeth/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -154,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
