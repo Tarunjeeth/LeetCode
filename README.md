@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Tarunjeeth/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tarunjeeth/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Tarunjeeth/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tarunjeeth/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/Tarunjeeth/LeetCode/tree/master/0744-network-delay-time) |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Depth-First Search
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tarunjeeth/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tarunjeeth/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tarunjeeth/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -158,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Tarunjeeth/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tarunjeeth/LeetCode/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tarunjeeth/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
