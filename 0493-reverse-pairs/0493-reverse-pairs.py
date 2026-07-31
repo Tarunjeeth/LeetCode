@@ -11,16 +11,17 @@ class Solution:
 
         return count
     
-    def count(self, nums: List[int], low: int, mid: int, high: int):
-        count = 0
-        right = mid + 1
+    def count(self,nums: List[int],low :int,mid :int,high:int):
+        left=low
+        right=mid+1
+        count=0
 
-        for left in range(low, mid + 1):
-            while right <= high and nums[left] > 2 * nums[right]:
-                right += 1
-        
-            count += right - (mid + 1)
-
+        while(left<=mid and right<=high):
+            if (nums[left]>2*nums[right]):
+                count+=((mid+1)-left)
+                right+=1
+            else:
+                left+=1
         return count
     
     def merge(self,nums: List[int],low :int,mid :int,high:int):
