@@ -28,7 +28,7 @@ public:
 
     }
     void mergeSort(vector<int>& nums,int low,int high){
-        if(low>=high)
+        if(low==high)
             return ;
         int mid = low + (high - low) / 2;
         mergeSort(nums,low,mid);
@@ -37,7 +37,6 @@ public:
         return ;
     }
     vector<int> sortArray(vector<int>& nums) {
-        if (nums.empty()) return nums;
         mergeSort(nums, 0, nums.size() - 1);
         return nums;
     }
